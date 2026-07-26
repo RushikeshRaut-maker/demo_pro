@@ -1,6 +1,5 @@
 name: django demo build and deploy
 
-
 on:
   push:
     branches:
